@@ -1,1 +1,3 @@
-Welcome to MyProject
+Welcome to MyProject!
+
+Author: Nigel
