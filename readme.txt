@@ -1,5 +1,5 @@
 Welcome to MyProject!
 
-Author: Nigel
+Author: Nigel An
 
 Twttier: @nigelhuynh
